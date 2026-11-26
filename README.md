@@ -131,7 +131,7 @@ Consumer-Complaint-Classification/
 
 Open:
 
-https://colab.research.google.com/
+[https://colab.research.google.com/](https://colab.research.google.com/drive/1vxyu0yY3IYVThvxh6J1nYV30Ob6fk9sN?usp=drive_link)
 
 ### Step 2: Open the Notebook
 
